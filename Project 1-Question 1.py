@@ -80,9 +80,7 @@ while next_question == 'Y':
             responses.remove(item)
     if not responses:
         responses = affirmative + non_committal + negative
-        
-    print(responses)
-        
+         
     #Print the Answer
     print("Magic 8 Ball says:\n", answer)
 
