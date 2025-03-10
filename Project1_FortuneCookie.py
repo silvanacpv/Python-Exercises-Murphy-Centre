@@ -16,7 +16,7 @@ responses = [
 ]
 
 #First part
-print("Fortune:\n")
+print("Fortune: ")
 
 #Get the response
 answer = random.choice(responses)
