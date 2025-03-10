@@ -25,7 +25,7 @@ answer = random.choice(responses)
 print(answer, "\n")
 
 #Second part
-print("Random numbers:\n")
+print("Random numbers: ")
 for numb in range(0,4):
     rand = random.randint(0, 99)
     print(rand)
