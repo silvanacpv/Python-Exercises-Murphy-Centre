@@ -1,24 +1,24 @@
-Python Practice – TechPrep at Murphy Center
+**Python Practice – TechPrep at Murphy Center**
 
 This file contains Python programs created for the TechPrep course at Murphy Center. These exercises help build essential programming skills such as input/output, randomness, loops, functions, and working with CSV files using the pandas library.
 
-Included Programs:
+**Project One:**
 
-1. Magic 8 Ball:
+**1. Magic 8 Ball:**
 Simulates the classic Magic 8 Ball toy. The user asks a yes/no question, and the program gives a random answer. Responses include at least 3 affirmatives, 3 non-committals, and 3 negatives.
 
 Example:
 Will I pass the test?
 Magic 8 Ball says: "Don't count on it."
 
-2. Fortune Cookie:
+**2. Fortune Cookie:**
 Displays a random fortune along with four lucky numbers between 1 and 99. Includes at least 6 possible fortune messages.
 
 Example:
 Your fortune: "Big surprises are coming your way."
 Lucky numbers: 7, 24, 39, 85
 
-3. FizzBuzz:
+**3. FizzBuzz:**
 Prints numbers from 1 to 100. For multiples of 3, prints "Fizz"; for multiples of 5, prints "Buzz"; and for multiples of both, prints "FizzBuzz".
 
 Example output:
@@ -34,7 +34,8 @@ Fizz
 Buzz
 ...
 
-4. Student Grade Analyzer:
+**Project Two**
+**1. Student Grade Analyzer:**
 Reads a CSV file (Grades_Short.csv) containing student scores. It calculates each student’s average, determines their final grade, assigns a letter grade, and saves the updated data in a new CSV file.
 
 Grading scale:
@@ -77,4 +78,4 @@ https://en.wikipedia.org/wiki/Fortune_cookie
 Fizz Buzz – Wikipedia
 https://en.wikipedia.org/wiki/Fizz_buzz
 
-Created for the TechPrep course at Murphy Center.
+**Created for the TechPrep course at Murphy Center.**
